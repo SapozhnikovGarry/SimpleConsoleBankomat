@@ -1,0 +1,12 @@
+c:\users\administrator\documents\visual studio 2013\Projects\Bankomat\Bankomat\bin\Debug\Bankomat.exe.config
+c:\users\administrator\documents\visual studio 2013\Projects\Bankomat\Bankomat\bin\Debug\Bankomat.exe
+c:\users\administrator\documents\visual studio 2013\Projects\Bankomat\Bankomat\bin\Debug\Bankomat.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\Bankomat\Bankomat\obj\Debug\Bankomat.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2013\Projects\Bankomat\Bankomat\obj\Debug\Bankomat.exe
+c:\users\administrator\documents\visual studio 2013\Projects\Bankomat\Bankomat\obj\Debug\Bankomat.pdb
+C:\Users\Администратор\Desktop\Bankomat\Bankomat\bin\Debug\Bankomat.exe.config
+C:\Users\Администратор\Desktop\Bankomat\Bankomat\obj\Debug\Bankomat.exe
+C:\Users\Администратор\Desktop\Bankomat\Bankomat\obj\Debug\Bankomat.pdb
+C:\Users\Администратор\Desktop\Bankomat\Bankomat\bin\Debug\Bankomat.exe
+C:\Users\Администратор\Desktop\Bankomat\Bankomat\bin\Debug\Bankomat.pdb
+C:\Users\Администратор\Desktop\Bankomat\Bankomat\obj\Debug\Bankomat.csprojResolveAssemblyReference.cache
